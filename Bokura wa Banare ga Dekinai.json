@@ -1,0 +1,33 @@
+{
+  "title": "Bokura wa Banare ga Dekinai",
+  "description": "",
+  "artist": "Herio",
+  "author": "Herio",
+  "cover": "https://nhentai.net/g/355046/1/",
+  "chapters": {
+    "1": {
+      "title": "Bokura wa ○○ Banare ga Dekinai Joron",
+      "volume": "1",
+      "last_updated": "1757090665",
+      "groups": {
+        "Bokura wa ○○ Banare ga Dekinai ": "/proxy/api/https://nhentai.net/g/355046/"
+      }
+    },
+    "2": {
+      "title": "Bokura wa ○○ Banare ga Dekinai Honron",
+      "volume": "1",
+      "last_updated": "1757090756",
+      "groups": {
+        "Bokura wa ○○ Banare ga Dekinai ": "/proxy/api/https://nhentai.net/g/355756/"
+      }
+    },
+    "3": {
+      "title": "Bokura wa ○○ Banare ga Dekinai Ketsuron",
+      "volume": "1",
+      "last_updated": "1757090821",
+      "groups": {
+        "Bokura wa ○○ Banare ga Dekinai ": "/proxy/api/https://nhentai.net/g/363685/"
+      }
+    }
+  }
+}
